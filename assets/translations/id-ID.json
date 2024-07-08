@@ -1,0 +1,63 @@
+{
+  "login": {
+    "username_label": "Nomor telpon, email atau username",
+    "password": "Password",
+    "login": "Login",
+    "forgot_password": "Lupa detail akun loginmu?",
+    "forgot_password_action": "Bantuan untuk login",
+    "or": "Atau",
+    "dont_have_account": "Belum punya akun?",
+    "sign_up": "Daftar"
+  },
+  "signup": {
+    "choose_username": "Pilih Username",
+    "change_later": "Anda dapat menggantinya nanti.",
+    "next": "Lanjut",
+    "create_password": "Buat password",
+    "password_information": "Untuk keamanan, password harus lebih dari enam karakter.",
+    "welcome": "Selamat Datang di Picspile",
+    "complete_signup": "Lengkapi Pendaftaran",
+    "add_phone_email": "Tambah Nomor Telepon atau Email"
+  },
+  "find_account":{
+    "title": "Temukan akun kamu",
+    "sub_title": "Masukkan nama pengguna Anda atau alamat email\natau nomor telepon yang ditautkan ke akun Anda.",
+    "hint": "Nomor telepon, alamat email, atau nama pengguna",
+    "find": "Temukan",
+    "or": "ATAU"
+  },
+  "profile": {
+    "title": "Profil"
+  },
+  "language": {
+    "choose_language": "Ganti Bahasa",
+    "id": "Bahasa Indonesia",
+    "us": "English (United State)"
+  },
+  "setting":{
+    "follow_invite_friends" : "Ikuti dan ajak teman",
+    "notification" : "Pemberitahuan",
+    "privacy" : "Privasi",
+    "security" : "Keamanan",
+    "ads" : "Iklan",
+    "account" : "Akun",
+    "help" : "Bantuan",
+    "about" : "Tentang Aplikasi",
+    "theme" : "Tema",
+    "language" : "Bahasa",
+    "add_or_switch_account" : "Tambah atau ganti akun",
+    "logout" : "Keluar dari",
+    "logout_all_account": "Keluar dari semua akun"
+  },
+  "dialog":{
+    "title_permission_camera" : "Perizinan Kamera",
+    "title_permission_gallery" : "Perizinan Galeri",
+    "message_permission_camera" : "Perizinan camera diperlukan untuk menggunakan fitur ini, apakah Anda ingin membuka pengaturan aplikasi untuk memberikan izin camera?",
+    "message_permission_gallery" : "Perizinan galeri diperlukan untuk menggunakan fitur ini, apakah Anda ingin membuka pengaturan aplikasi untuk memberikan izin galeri?",
+    "cancel": "Batal"
+  },
+  "home": {
+    "like_post": "Suka",
+    "like_your_post": "David menyukai postingan Anda"
+  }
+}

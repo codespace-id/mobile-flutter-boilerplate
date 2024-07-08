@@ -1,0 +1,63 @@
+{
+  "login": {
+    "username_label": "Phone number, email address or username",
+    "password": "Password",
+    "login": "Login",
+    "forgot_password": "Forgotten your login details?",
+    "forgot_password_action": "Get help with logging in.",
+    "or": "OR",
+    "dont_have_account": "Don't have an account?",
+    "sign_up": "Sign up."
+  },
+  "signup": {
+    "choose_username": "Choose Username",
+    "change_later": "You can always change it later.",
+    "next": "Next",
+    "create_password": "Create a password",
+    "password_information": "For security, your password must be six characters or more.",
+    "welcome": "Welcome to Picspile",
+    "complete_signup": "Complete Sign-up",
+    "add_phone_email": "Add New Phone Number or Email Address"
+  },
+  "find_account":{
+    "title": "Find your account",
+    "sub_title": "Enter your username or the email address\nor phone number linked to your account.",
+    "hint": "Phone number, email address or username",
+    "find": "Find",
+    "or": "OR"
+  },
+  "profile": {
+    "title": "Profile"
+  },
+  "language": {
+    "choose_language": "Choose Language",
+    "id": "Bahasa Indonesia",
+    "us": "English (United State)"
+  },
+  "setting":{
+    "follow_invite_friends" : "Follow and invite friends",
+    "notification" : "Notifiations",
+    "privacy" : "Privacy",
+    "security" : "Security",
+    "ads" : "Ads",
+    "account" : "Accounts",
+    "help" : "Helps",
+    "about" : "About",
+    "theme" : "Theme",
+    "language" : "Language",
+    "add_or_switch_account" : "Add or switch accounts",
+    "logout" : "Log out",
+    "logout_all_account": "Log out all accounts"
+  },
+  "dialog":{
+    "title_permission_camera" : "Camera Permission",
+    "title_permission_gallery" : "Gallery Permission",
+    "message_permission_camera" : "Camera permission is required to use this feature, do you want to open app settings to grant camera permission?",
+    "message_permission_gallery" : "Gallery permission is required to use this feature, do you want to go to app settings to grant gallery permission?",
+    "cancel": "Cancel"
+  },
+  "home": {
+    "like_post": "Like",
+    "like_your_post": "David liked your post"
+  }
+}
